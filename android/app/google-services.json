@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "671951320933",
+    "firebase_url": "https://chat-app-5486c.firebaseio.com",
+    "project_id": "chat-app-5486c",
+    "storage_bucket": "chat-app-5486c.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:671951320933:android:995a2cb28c404fd527d38c",
+        "android_client_info": {
+          "package_name": "co.mazumdar.chat_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "671951320933-oovrg6no5q08tarl6luki5jcgs2at2dj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXAe4DwGQRaj64eQEOPJaUU4dINUcs6vY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "671951320933-oovrg6no5q08tarl6luki5jcgs2at2dj.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
